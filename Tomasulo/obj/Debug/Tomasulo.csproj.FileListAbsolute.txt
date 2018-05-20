@@ -1,0 +1,10 @@
+D:\other_projects\C#Project\Tomasulo\bin\Debug\Tomasulo.exe.config
+D:\other_projects\C#Project\Tomasulo\bin\Debug\Tomasulo.exe
+D:\other_projects\C#Project\Tomasulo\bin\Debug\Tomasulo.pdb
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.Form1.resources
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.Properties.Resources.resources
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.csproj.GenerateResource.Cache
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.csproj.CoreCompileInputs.cache
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.exe
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.pdb
+D:\other_projects\C#Project\Tomasulo\obj\Debug\Tomasulo.csprojResolveAssemblyReference.cache
